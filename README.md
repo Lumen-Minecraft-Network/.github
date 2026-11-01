@@ -19,7 +19,6 @@
   <a href="#-de-lobby">Lobby</a> ·
   <a href="#-community-en-moderatie">Community</a> ·
   <a href="#-wat-is-er-nu">Status</a> ·
-  <a href="#-voor-ontwikkelaars">Ontwikkelaars</a>
 </p>
 
 ---
@@ -45,7 +44,7 @@ Waar we voor gaan:
 | **Server-IP** | `play.lumenmc.nl` |
 | **Versie** | Minecraft: Java Edition 26.3 |
 | **Website** | [lumenmc.nl](https://lumenmc.nl) |
-| **Discord** | via [lumenmc.nl](https://discord.lumenmc.nl) |
+| **Discord** | via [discord.lumenmc.nl](https://discord.lumenmc.nl) |
 
 1. Open Minecraft (Java Edition) en kies **Multiplayer**.
 2. Klik op **Server toevoegen** en vul `play.lumenmc.nl` in.
