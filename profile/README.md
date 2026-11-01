@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://lumenmc.nl"><img alt="Server IP" src="https://img.shields.io/badge/IP-lumenmc.nl-FFD27F?style=for-the-badge&labelColor=0E1320"></a>
+  <a href="https://play.lumenmc.nl"><img alt="Server IP" src="https://img.shields.io/badge/IP-lumenmc.nl-FFD27F?style=for-the-badge&labelColor=0E1320"></a>
   <img alt="Minecraft Java" src="https://img.shields.io/badge/Minecraft-Java%2026.3-8EE3A6?style=for-the-badge&labelColor=0E1320">
   <img alt="Taal" src="https://img.shields.io/badge/Taal-Nederlands-8FB8FF?style=for-the-badge&labelColor=0E1320">
   <img alt="Status" src="https://img.shields.io/badge/Status-In%20ontwikkeling-C4B5FD?style=for-the-badge&labelColor=0E1320">
@@ -42,13 +42,13 @@ Waar we voor gaan:
 
 | Wat | Waar |
 |---|---|
-| **Server-IP** | `lumenmc.nl` |
+| **Server-IP** | `play.lumenmc.nl` |
 | **Versie** | Minecraft: Java Edition 26.3 |
 | **Website** | [lumenmc.nl](https://lumenmc.nl) |
-| **Discord** | via [lumenmc.nl](https://lumenmc.nl) |
+| **Discord** | via [discord.lumenmc.nl](https://discord.lumenmc.nl) |
 
 1. Open Minecraft (Java Edition) en kies **Multiplayer**.
-2. Klik op **Server toevoegen** en vul `lumenmc.nl` in.
+2. Klik op **Server toevoegen** en vul `play.lumenmc.nl` in.
 3. Verbind en kies in de lobby met het kompas of een NPC je gamemode.
 
 ---
