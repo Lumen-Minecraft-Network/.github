@@ -18,7 +18,7 @@
   <a href="#-gamemodes">Gamemodes</a> ·
   <a href="#-de-lobby">Lobby</a> ·
   <a href="#-community-en-moderatie">Community</a> ·
-  <a href="#-wat-is-er-nu">Status</a> ·
+  <a href="#-wat-is-er-nu">Status</a>
 </p>
 
 ---
