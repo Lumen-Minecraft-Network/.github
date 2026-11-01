@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://play.lumenmc.nl"><img alt="Server IP" src="https://img.shields.io/badge/IP-lumenmc.nl-FFD27F?style=for-the-badge&labelColor=0E1320"></a>
+  <a href="https://play.lumenmc.nl"><img alt="Server IP" src="https://img.shields.io/badge/IP-play.lumenmc.nl-FFD27F?style=for-the-badge&labelColor=0E1320"></a>
   <img alt="Minecraft Java" src="https://img.shields.io/badge/Minecraft-Java%2026.3-8EE3A6?style=for-the-badge&labelColor=0E1320">
   <img alt="Taal" src="https://img.shields.io/badge/Taal-Nederlands-8FB8FF?style=for-the-badge&labelColor=0E1320">
   <img alt="Status" src="https://img.shields.io/badge/Status-In%20ontwikkeling-C4B5FD?style=for-the-badge&labelColor=0E1320">
@@ -19,7 +19,6 @@
   <a href="#-de-lobby">Lobby</a> ·
   <a href="#-community-en-moderatie">Community</a> ·
   <a href="#-wat-is-er-nu">Status</a> ·
-  <a href="#-voor-ontwikkelaars">Ontwikkelaars</a>
 </p>
 
 ---
